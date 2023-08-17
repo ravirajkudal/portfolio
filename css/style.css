@@ -351,6 +351,11 @@ header .navbar ul li a:hover{
     width: 75%;
     animation-delay: 0.1s;
 }
+.skill-per.java{
+    width: 50%;
+    animation-delay: 0.1s;
+}
+
 @keyframes progress {
     0%{
         width: 0;
